@@ -1,4 +1,3 @@
-non empty line to see whether that prevents the page from having a title
 
 ## First line with Header 2 marking
 
