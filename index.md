@@ -1,3 +1,4 @@
+.
 
 ## First line with Header 2 marking
 
