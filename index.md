@@ -1,4 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Pages
+
+This repository has no attached license. This is not an oversight. It is fully intentional and means that all content of this repository is under exclusive copyright. You can read what's here, but you can NOT use, copy, distribute, or modify any of it without being at risk of take-downs, shake-downs, or litigation.
+
+Just saying :)
+
+----
 
 You can use the [editor on GitHub](https://github.com/marjanvenema/marjanvenema.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
